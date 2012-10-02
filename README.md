@@ -1,5 +1,6 @@
 Okay, here's the deal. Over the weekend, I saw that Molly Holzschlag
-(molly.com, @mollydotcom on Twitter) was having a really shitty time.
+([molly.com](http://molly.com), [@mollydotcom](http://twitter.com/mollydotcom) on Twitter)
+was having a really shitty time.
 
 Molly has always been a good friend. One of her many books taught me
 HTML, and unlike a lot of pompous douchebags, she has always given
@@ -17,8 +18,10 @@ a pull request.
 
 To sign the card, simply create a section in the HTML file. Like this...
 
+```html
 <section class="signatory" id="YOURNAME">
 </section>
+```
 
 Stick your CSS in stylesheets/yourname.css
 
