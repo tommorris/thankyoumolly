@@ -1,0 +1,10 @@
+To sign the card, simply create a section in the HTML file. Like this...
+
+<section class="signatory" id="YOURNAME">
+</section>
+
+Stick your CSS in stylesheets/yourname.css
+
+I keep the CSS files separate, so I can validate each one.
+
+Please write good HTML, good CSS and be nice.
