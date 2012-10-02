@@ -10,8 +10,7 @@ darkness of life strikes at a really nice person.
 So I just wanted to say thank you to Molly for being a great teacher
 and a good person. If you feel likewise, feel free to sign the card.
 
-I've registered thankyoumolly.com and will put up a signed card on
-there in the next few days.
+The site is at [thankyoumolly.com](http://thankyoumolly.com)
 
 You can sign it by forking, adding your message and then sending
 a pull request.
@@ -32,3 +31,10 @@ I keep the CSS files separate, so I can validate each one. build.sh
 just concatenates all the CSS files together.
 
 Please write good HTML, good CSS and be nice.
+
+Don't speak the markup?
+-----------------------
+
+Feel free to send an email: [tom@tommorris.org](mailto:tom@tommorris.org?subject=thankyoumolly.com)
+with the subject line "thankyoumolly.com" and I'll add yours in
+with a plain boring style.
