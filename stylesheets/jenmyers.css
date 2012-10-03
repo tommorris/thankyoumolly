@@ -1,0 +1,24 @@
+#jenmyers {
+  background-color: #edf9ff;
+  border: 1px solid #bcdff0;
+  border-radius: 2px;
+  color: #487d95;
+  font-family: Georgia;
+  line-height: 140%;
+  margin: 1em 0;
+  padding: 0.5em 1.5em;
+}
+
+#jenmyers .sign {
+  text-align: right;
+}
+
+#jenmyers a {
+  color: #487d95;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#jenmyers a:hover {
+  color: #02485c;
+}
